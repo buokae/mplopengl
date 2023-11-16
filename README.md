@@ -1,3 +1,5 @@
+** Warning! This code is experimental and not useable as is due to memory leakage. **
+
 # mplopengl
 OpenGL based backend for matplotlib
 
